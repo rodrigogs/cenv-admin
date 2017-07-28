@@ -1,0 +1,21 @@
+{
+  "name": "cenv-admin",
+  "description": "Administration interface for cenv-registry",
+  "version": "1.0.0",
+  "repository": "git@github.com:rodrigogs/cenv-admin.git",
+  "author": {
+    "name": "Rodrigo Gomes da Silva",
+    "email": "rodrigo.smscom@gmail.com",
+    "url": "https://github.com/rodrigogs"
+  },
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
